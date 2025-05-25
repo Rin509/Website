@@ -5,7 +5,10 @@ img{
     width: 22%;
     vertical-align: top;
     border-radius: 10%;
-    margin-left: 1.5vw;
+}
+div.images{
+    display:flex;
+    justify-content: space-evenly ;
 }
 *{
     font-family: "Libre Bodoni";
